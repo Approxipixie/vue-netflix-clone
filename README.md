@@ -11,9 +11,7 @@ DISCLAIMER: THIS PROJECT WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT
   </a>
 </div>
 
-## Live Demo
-Link: https://approxipix.github.io/vue-netflix-clone
-
+## Demo
 ![example](https://github.com/Approxipix/vue-netflix-clone/blob/master/example1.png?raw=true)
 ![example](https://github.com/Approxipix/vue-netflix-clone/blob/master/example2.png?raw=true)
 ![example](https://github.com/Approxipix/vue-netflix-clone/blob/master/example3.png?raw=true)
