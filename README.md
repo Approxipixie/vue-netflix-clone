@@ -1,5 +1,8 @@
 # Vue Netflix Clone
 A simple [Netflix](https://netflix.com) clone based on Vue powered by [Firebase](https://firebase.google.com).
+
+DISCLAIMER: THIS PROJECT WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
+
 <div>
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/approxipix/vue-netflix-clone?color=2b9348">
   <img src="https://img.shields.io/depfu/approxipix/vue-netflix-clone" alt="Dependencies status" />
